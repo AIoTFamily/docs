@@ -6,7 +6,7 @@
 #### 文档目录
 | 下载链接                                                     | 说明 |
 | ------------------------------------------------------------ | ---- |
-| [07-5123-07-Zigbee Cluster Library Specification.pdf](https://gitee.com/AIoTFamily/docs/raw/master/Zigbee/07-5123-07-Zigbee Cluster Library Specification.pdf) |      |
+| [07-5123-07-Zigbee Cluster Library Specification.pdf](https://gitee.com/AIoTFamily/docs/raw/master/) |      |
 | [05-3474-21-Zigbee Specification.pdf]([https://gitee.com/AIoTFamily/docs/raw/master/Zigbee/05-3474-21-Zigbee%20Specification.pdf](https://gitee.com/AIoTFamily/docs/raw/master/Zigbee/05-3474-21-Zigbee Specification.pdf)) |      |
 |                                                              |      |
 
